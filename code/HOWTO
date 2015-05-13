@@ -1,0 +1,9 @@
+/usr/src/include/minix/callnr.h
+/usr/src/servers/pm/table.c
+/usr/src/servers/pm/proto.h
+/usr/src/include/mqueuelib.h
+/usr/src/servers/pm/message_queue.c
+/usr/src/servers/pm/message_queue.h
+/usr/src/servers/pm/Makefile
+
+edit /usr/src/include/Makefile: change mqueue.h with mqueuelib.h
